@@ -1,9 +1,10 @@
-# CodeIgniter 4 Application Starter
+# CRUD CodeIgniter v4
 
-## What is CodeIgniter?
+## Descripción 
 
 CRUD básico con CodeIgniter4. Prueba de metodos y actualizaciones 
 Sitio oficial del framework [official site](http://codeigniter.com).
+
 
 This repository holds a composer-installable app starter.
 It has been built from the 
@@ -13,6 +14,8 @@ Más información de la nueva versión puedes buscar [the announcement](http://f
 
 Documentación oficial de la versión 4. Guías y ejemplos bien detallados en la descripción de cada elemento.
 [here](https://codeigniter4.github.io/userguide/). 
+
+Incluye SQL store_ci.sql de la base de datos para realizar pruebas .
 
 ## Instalación & actualizacion vía composer
 
